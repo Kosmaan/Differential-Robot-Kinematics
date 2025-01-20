@@ -1,1 +1,2 @@
-# Differential-Robot-Kinematics
+# Differential Robot Kinematics and Obstacle Avoidance
+This project implements a kinematics model for a differential-drive robot and obstacle avoidance logic to ensure safe and efficient navigation in dynamic environments. The code is designed to simulate and control the motion of the robot, taking into account its physical constraints and environmental factors.
